@@ -2,7 +2,7 @@
 
 # Custom viewer for Sketfab utilizing the Viewer API to allow showing and hiding of the model's parts
 
-Example Running Here: https://croisened.github.io/SketchFabShowAndHide/?id=3b4d51128238447ea0339aca6f399781
+Example Running Here: https://croisened.github.io/SketchFabShowAndHide/?id=5fe064bac9914e33a84f1c5f2007de1b
 
 
 To use this project you only need 3 files...
