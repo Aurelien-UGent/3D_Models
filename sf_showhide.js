@@ -1,6 +1,6 @@
 // Sketchfab Viewer API: Start/Stop the viewer
 var version = "1.9.0";
-var uid = "5fe064bac9914e33a84f1c5f2007de1b";
+var uid = "532e8d2686c74ec7a75ab10612b39db1";
 
 var urlParams = new URLSearchParams(window.location.search);
 var autoSpin = 0.0;
