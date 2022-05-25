@@ -3,6 +3,7 @@
 # Custom viewer for Sketfab utilizing the Viewer API to allow showing and hiding of the model's parts
 
 Caecilia tentaculata: https://croisened.github.io/SketchFabShowAndHide/?id=5fe064bac9914e33a84f1c5f2007de1b
+Rhinatrema bivittatum: https://croisened.github.io/SketchFabShowAndHide/?id=be5c11d602b84de393ee2eb26455ba6c
 
 
 To use this project you only need 3 files...
