@@ -4,7 +4,7 @@
 
 Caecilia tentaculata: https://croisened.github.io/SketchFabShowAndHide/?id=5fe064bac9914e33a84f1c5f2007de1b
 
-Rhinatrema bivittatum: https://croisened.github.io/SketchFabShowAndHide/?id=be5c11d602b84de393ee2eb26455ba6c
+Rhinatrema bivittatum: https://croisened.github.io/SketchFabShowAndHide/?id=8d4835ea0db64d2dbd69f7f82b23a524
 
 
 To use this project you only need 3 files...
