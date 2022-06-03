@@ -1,12 +1,14 @@
-## Welcome to SKetchFabShowAndHide 
+## The anatomy of the head muscles in caecilians (Amphibia: Gymnophiona): variation in relation to phylogeny and ecology? 
 
-# Custom viewer for Sketfab utilizing the Viewer API to allow showing and hiding of the model's parts
+# 3D reconstructions of caecilians cephalic musculature
 
 _Caecilia tentaculata_: https://croisened.github.io/SketchFabShowAndHide/?id=5fe064bac9914e33a84f1c5f2007de1b
 
 _Rhinatrema bivittatum_: https://croisened.github.io/SketchFabShowAndHide/?id=8d4835ea0db64d2dbd69f7f82b23a524
 
 
+# Modified script from FullyCroisened
+# Custom viewer for Sketfab utilizing the Viewer API to allow showing and hiding of the model's parts
 To use this project you only need 3 files...
 
 - index.html (This file just has the HTML scaffolding to house the Sketchfab API viewer)
