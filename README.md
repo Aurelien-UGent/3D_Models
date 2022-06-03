@@ -1,6 +1,6 @@
 # The anatomy of the head muscles in caecilians (Amphibia: Gymnophiona): variation in relation to phylogeny and ecology? 
 
-## 3D reconstructions of caecilians cephalic musculature
+## Interactive 3D reconstructions of caecilians cephalic musculature
 
 _Caecilia tentaculata_: https://croisened.github.io/SketchFabShowAndHide/?id=5fe064bac9914e33a84f1c5f2007de1b
 
